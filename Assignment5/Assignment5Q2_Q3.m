@@ -1,3 +1,4 @@
+%These 2 questions utilize the create_matrix function in create_matrix.m
 %Q2
 %Create pattern using i and j
 a = @(i,j) (i<=j) + (i > j)*(j + 1)
